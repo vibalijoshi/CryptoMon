@@ -12,7 +12,7 @@ The objective of this tutorial is to learn about using Cupertino and Material Wi
 
 
 
-![Finished App](https://github.com/vibalijoshi/CryptoMon/tree/main/images)
+![Finished App](https://github.com/vibalijoshi/CryptoMon/blob/main/images/crypto.gif)
 
 ## What you will learn
 
