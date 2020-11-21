@@ -3,7 +3,7 @@
 
 # Crypto💲Mon
 
-## What to learn
+## What I learnt
 
 - How to use the DropdownButton Widget from Material design.
 - How to loop through code using Dart for and for-in loops.
